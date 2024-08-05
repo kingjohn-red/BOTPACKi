@@ -5,7 +5,7 @@
   "allowInbox": false,
   "autoClean": true,
   "adminOnly": false,
-  "encryptSt": true,
+  "encryptSt": false,
   "UPTIME": 200,
   "commandDisabled": [],
   "eventDisabled": [],
